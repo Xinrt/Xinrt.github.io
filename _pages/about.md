@@ -15,7 +15,6 @@ Research Interests
 
 I am interested in computer vision, robot perception, and machine learning algorithm. 
 
-想要engineering，把东西落地
 
 
 Education
@@ -48,4 +47,4 @@ Awards
 
 For more info
 ======
-In my free time, I enjoy photography, exploring interesting places and discovering the unique beauty of life. I also love to work and communicate with people from different backgrounds. If you are interested, feel free to contact me 😃
+In my free time, I enjoy photography 📷, exploring interesting places and discovering the unique beauty of life. I also love to work and communicate with people from different backgrounds. If you are interested, feel free to contact me 😃
