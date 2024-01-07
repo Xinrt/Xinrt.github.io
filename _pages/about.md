@@ -19,8 +19,8 @@ I am interested in computer vision, robot perception, and machine learning algor
 
 Education
 ======
-  * New York University, M.S. in Computer Engineering, 2022-2024
-  * University of Nottingham, B.S. (Hons) in Computer Science, 2018-2022
+  * New York University, M.S. in Computer Engineering, 09/2022 - now
+  * University of Nottingham, B.S. (Hons) in Computer Science, 09/2018 - 07/2022
 
 
 
