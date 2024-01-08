@@ -13,9 +13,7 @@ Hi, glad to see you here. I'm currently pursuing a Master of Science degree at N
 Research Interests
 ======
 
-I am interested in computer vision, robot perception, and machine learning algorithm. 
-
-
+Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, robotic perception, and machine learning algorithms. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) active perception, (2) collaborative perception, and (3) cognitive perception.
 
 Education
 ======
@@ -27,10 +25,23 @@ Education
 Research Projects
 ======
 
+Visual Room Rearrangement
+------ 
+
+
+Large Language Model in Robot Grasping
+------ 
+
+
+3-D Multi-Cameras Gaze Estimation System for Large Movement with Long Distance
+------ 
+
 
 
 Entrepreneurial Projects
 ======
+Cleansing instrument Pro (Residual makeup detection)
+------ 
 
 
 
