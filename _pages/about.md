@@ -25,23 +25,24 @@ Education
 Research Projects
 ======
 
-Visual Room Rearrangement
------- 
+**(1) Visual Room Rearrangement**
 
 
-Large Language Model in Robot Grasping
------- 
+
+**(2) Large Language Model in Robot Grasping**
+ 
 
 
-3-D Multi-Cameras Gaze Estimation System for Large Movement with Long Distance
------- 
+**(3) 3-D Multi-Cameras Gaze Estimation System for Large Movement with Long Distance**
+
 
 
 
 Entrepreneurial Projects
 ======
-Cleansing instrument Pro (Residual makeup detection)
------- 
+
+**Cleansing instrument Pro (Residual makeup detection)**
+
 
 
 
