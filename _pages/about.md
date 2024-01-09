@@ -13,7 +13,7 @@ Hi, glad to see you here. I'm currently pursuing a Master of Science degree at N
 Research Interests
 ======
 
-Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, robotic perception, and machine learning algorithms. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) active perception, (2) collaborative perception, and (3) cognitive perception.
+Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, robotic perception, and machine learning algorithms. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) active perception, (2) collaborative perception, (3) cognitive perception, and (4) Large Language Models
 
 Education
 ======
