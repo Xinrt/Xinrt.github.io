@@ -59,4 +59,4 @@ Awards
 
 For more info
 ======
-In my free time, I like photography 📷, and fitness 🤸‍♀️. I also love to work and communicate with people from different backgrounds. If you are interested, feel free to contact me 😃
+In my free time, I like photography 📷, and fitness 🤸‍♀️. I believe that reading makes me think and talking makes me learn. If you are interested, feel free to contact me, we can make progress together 😃
