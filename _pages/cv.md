@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Email: xt2191@nyu.edu
+* Email: xt2191@nyu.edu
 
 
-Phone: +1 9299693826
+* Phone: +1 9299693826
