@@ -59,4 +59,4 @@ Awards
 
 For more info
 ======
-In my free time, I enjoy photography 📷, exploring interesting places and discovering the unique beauty of life. I also love to work and communicate with people from different backgrounds. If you are interested, feel free to contact me 😃
+In my free time, I like photography 📷, and fitness 🤸‍♀️. I also love to work and communicate with people from different backgrounds. If you are interested, feel free to contact me 😃
