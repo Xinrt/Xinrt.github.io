@@ -28,12 +28,16 @@ Research Projects
 **(1) Visual Room Rearrangement**
 
 
+**(2) Visual Navigation in Maze**
 
-**(2) Large Language Model in Robot Grasping**
+
+
+**(3) Large Language Model in Robot Grasping**
  
 
 
-**(3) 3-D Multi-Cameras Gaze Estimation System for Large Movement with Long Distance**
+
+**(4) 3-D Multi-Cameras Gaze Estimation System for Large Movement with Long Distance**
 
 
 
