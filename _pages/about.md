@@ -63,4 +63,4 @@ Awards
 
 For more info
 ======
-In my free time, I like photography 📷, and fitness 🤸‍♀️. Communicate with people keeps me thinking and learning. If you are interested, feel free to contact me, we can make progress together 😃
+I'm passionate about the violin and have been training professionally for 7 years. Fitness is my go-to activity during leisure time 🤸‍♀️. Engaging in conversations with others stimulates my thoughts and learning process. Should anything catch your interest, don't hesitate to get in touch. Let's embark on a journey of mutual growth! 😃
