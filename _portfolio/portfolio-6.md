@@ -1,6 +1,6 @@
 ---
 title: "Sokoban Game Design"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/sokoban_overview.png'>"
+excerpt: "Short description of portfolio item number 1<br/>"
 collection: portfolio
 ---
 
@@ -9,3 +9,4 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 Github: https://github.com/Xinrt/UNNC_sokoban_game
 
 
+![sokoban_overview](/images/sokoban_overview.png)
