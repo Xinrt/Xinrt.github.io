@@ -1,6 +1,6 @@
 ---
 title: "Database Design - Online Shopping"
-excerpt: "Languages: PHP, CSS, JavaScript <br/>"
+excerpt: "Languages: PHP, CSS, JavaScript, SQL <br/>"
 collection: portfolio
 ---
 
