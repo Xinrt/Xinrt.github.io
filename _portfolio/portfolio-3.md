@@ -1,6 +1,6 @@
 ---
 title: "High Performance Machine Learning"
-excerpt: "<br/>"
+excerpt: "Languages: Python<br/>"
 collection: portfolio
 ---
 

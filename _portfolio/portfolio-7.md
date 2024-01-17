@@ -1,6 +1,6 @@
 ---
 title: "Operating System - Shared Memory"
-excerpt: "<br/>"
+excerpt: "Languages: C <br/>"
 collection: portfolio
 ---
 

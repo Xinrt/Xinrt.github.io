@@ -1,6 +1,6 @@
 ---
 title: "Web/App Front-end Development"
-excerpt: "<br/>"
+excerpt: "Languages: JavaScript, HTML, CSS <br/>"
 collection: portfolio
 ---
 

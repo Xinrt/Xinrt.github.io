@@ -1,6 +1,6 @@
 ---
 title: "Sokoban Game Design"
-excerpt: "<br/>"
+excerpt: "Languages: Java <br/>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mobile application development of blind email client"
-excerpt: "<br/>"
+excerpt: "Languages: Kotlin, Java <br/>"
 collection: portfolio
 ---
 

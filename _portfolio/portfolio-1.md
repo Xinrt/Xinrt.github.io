@@ -1,6 +1,6 @@
 ---
 title: "RISC-V Processor Design - Basys 3 Artix-7 FPGA"
-excerpt: "<br/>"
+excerpt: "Languages: VHDL, Verilog<br/>"
 collection: portfolio
 ---
 
