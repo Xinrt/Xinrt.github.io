@@ -8,4 +8,6 @@ collection: portfolio
 
 Github: https://github.com/Xinrt/UNNC_OSC
 
+This is an individual project.
+
 

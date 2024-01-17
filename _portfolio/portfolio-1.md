@@ -4,8 +4,12 @@ excerpt: "Languages: VHDL, Verilog<br/>"
 collection: portfolio
 ---
 
+Github: https://github.com/Xinrt/AHD-project2022
 
-
+This is a group project, my contribution part including:
+1. Data Memory
+2. Instruction Memory
+3. On board experiments
 
 
 ![AHD_board](/images/AHD_board.png)

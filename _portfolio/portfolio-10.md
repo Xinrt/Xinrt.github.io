@@ -6,5 +6,6 @@ collection: portfolio
 
 
 
-web: https://github.com/Xinrt/UNNC_IIP
+Github: https://github.com/Xinrt/UNNC_IIP
 
+This is an individual project.

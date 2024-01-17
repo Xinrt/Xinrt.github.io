@@ -7,3 +7,5 @@ collection: portfolio
 
 Github: https://github.com/Xinrt/UNNC_DBI
 
+This is an individual project.
+
