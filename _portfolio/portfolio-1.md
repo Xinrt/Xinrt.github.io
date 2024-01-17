@@ -1,6 +1,6 @@
 ---
 title: "RISC-V Processor Design - Basys 3 Artix-7 FPGA"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "<br/>"
 collection: portfolio
 ---
 

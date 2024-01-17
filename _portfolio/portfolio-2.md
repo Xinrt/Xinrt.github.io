@@ -1,6 +1,6 @@
 ---
 title: "VMIPS Processor Design"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "<br/>"
 collection: portfolio
 ---
 

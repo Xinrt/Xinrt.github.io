@@ -1,6 +1,6 @@
 ---
 title: "Database Design - Online Shopping"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "<br/>"
 collection: portfolio
 ---
 

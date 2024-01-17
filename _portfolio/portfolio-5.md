@@ -1,6 +1,6 @@
 ---
 title: "Mobile application development of blind email client"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "<br/>"
 collection: portfolio
 ---
 
