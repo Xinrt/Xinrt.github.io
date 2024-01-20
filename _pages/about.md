@@ -13,7 +13,7 @@ Hi, glad to see you here. I'm currently pursuing a Master of Science degree at N
 Research Interests
 ======
 
-Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, robotic perception, and machine learning algorithms. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) visual mobile navigation, (2) visual mobile manipulation, and (3) Large Language Models
+Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, robotic perception, embeded system, and machine learning algorithms. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) visual mobile navigation, (2) visual mobile manipulation, and (3) Large Language Models
 
 Education
 ======
@@ -27,17 +27,23 @@ Research Projects
 
 **(1) Visual Room Rearrangement**
 
+keywords: ai2thor, computer vision, large language model, machine learning
+
 
 **(2) Visual Navigation in Maze**
+
+keywords: ROS, embeded system, robot perception, Sim2Real
 
 
 
 **(3) Large Language Model in Robot Grasping**
  
-
+keywords: OpenAI Gym, large language model, AutoML, MuJoCo 
 
 
 **(4) 3-D Multi-Cameras Gaze Estimation System for Large Movement with Long Distance**
+
+keywords: multi-camera, computer vision, image processing, machine learning, model design
 
 
 
@@ -46,6 +52,8 @@ Entrepreneurial Projects
 ======
 
 **Cleansing instrument Pro (Residual makeup detection)**
+
+keywords: embeded system, computer vision, machine learning, image processing
 
 
 
