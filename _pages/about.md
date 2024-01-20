@@ -22,7 +22,7 @@ Education
 
 
 
-Research Projects
+Selected Research Projects
 ======
 
 **(1) Visual Room Rearrangement**
