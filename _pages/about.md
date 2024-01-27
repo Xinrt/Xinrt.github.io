@@ -35,7 +35,7 @@ keywords: ai2thor, computer vision, large language model, machine learning
 
 **(2) Visual Navigation in Maze**
 
-keywords: ROS, embeded system, robot perception, Sim2Real
+keywords: ROS, embedded system, robot perception, Sim2Real
 
 
 
@@ -56,7 +56,7 @@ Entrepreneurial Projects
 
 **Cleansing instrument Pro (Residual makeup detection)**
 
-keywords: embeded system, computer vision, machine learning, image processing
+keywords: embedded system, computer vision, machine learning, image processing
 
 
 
