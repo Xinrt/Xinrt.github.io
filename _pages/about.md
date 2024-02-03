@@ -13,7 +13,7 @@ Hi, glad to see you here. I'm currently pursuing a Master of Science degree at N
 Research Interests
 ======
 
-Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, robotic perception, edge computing, and high performance machine learning. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) visual mobile navigation, (2) visual mobile manipulation, and (3) Large Language/Vision Models
+Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, robot perception, edge computing, and high performance machine learning. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) visual mobile navigation, (2) visual mobile manipulation, and (3) Large Language/Vision Models
 
 
 
