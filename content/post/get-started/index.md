@@ -1,6 +1,6 @@
 ---
-title: 🎉 I start my master thesis research under the supervision of Prof. Chen Feng in the AI4CE LAB
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: I start my master thesis research under the supervision of Prof. Chen Feng in the AI4CE LAB
+# summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-09-01
 
 # # Featured image
