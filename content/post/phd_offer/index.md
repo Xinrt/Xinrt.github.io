@@ -1,7 +1,7 @@
 ---
-title: I start my master thesis research under the supervision of Prof. Chen Feng in the AI4CE LAB
+title: I start my PhD research under the supervision of [Prof. George Atia](https://www.eecs.ucf.edu/~atia/) at UCF
 # summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-09-01
+date: 2024-07-10
 
 # Featured image
 
