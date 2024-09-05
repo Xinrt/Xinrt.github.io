@@ -61,18 +61,17 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
+
+
   - block: collection
     id: news
     content:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: post
       links_to_page: false
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
+      count: 5
       filters:
         author: ""
         category: ""
@@ -81,16 +80,65 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
+      view: custom
+      custom_css: |
+        .news-item {
+          display: flex;
+          justify-content: space-between;
+          padding: 10px 0;
+        }
+        .news-date {
+          flex: 1;
+          color: gray;
+        }
+        .news-title {
+          flex: 3;
+          text-align: right;
+        }
+      item_template: |
+        <div class="news-item">
+          <div class="news-date">{{ .Date.Format "Jan 2, 2006" }}</div>
+          <div class="news-title">{{ .Title }}</div>
+        </div>
+    design:
       spacing:
         padding: [0, 0, 0, 0]
+
+
+
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     links_to_page: false
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 0
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   # - block: collection
   #   id: talks
   #   content:
