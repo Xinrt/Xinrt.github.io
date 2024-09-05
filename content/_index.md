@@ -50,6 +50,23 @@ sections:
         **09/2023:** I start my master thesis research under the supervision of [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) in the AI4CE LAB.
 
         
+  - block: markdown
+    content:
+      title: '🏆 Awards & Honors'
+      text: |-
+        **UCF Graduate Artificial Intelligence Initiative Fellowship** \hfill *2024 - 2025*
+
+        **NYU Graduate School of Engineering Scholarship** \hfill *2022 - 2024*
+
+        **The Appreciate Presenter at the 2021 4th International Conference on Computing and BigData** \hfill *Nov. 2021*
+
+        **The Meritorious Winner of 2021 Interdisciplinary Contest in Modeling** \hfill *Feb. 2021*
+
+        **The Successful Participant Award of Asia and Pacific Mathematical Contest in Modeling** \hfill *Nov. 2020*
+
+        **The Second prize of the 10th National MathorCup university mathematical modeling challenge** \hfill *Jun. 2020*
+
+        
     # design:
     #   columns: '1'
   # - block: collection
