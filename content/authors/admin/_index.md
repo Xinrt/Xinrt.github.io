@@ -104,17 +104,17 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
-  - name: Technical Skills
-    items:
-      - name: Programming Languages
-        description: 'Python, Java, C/C++, MATLAB, LaTeX, VHDL/Verilog, HTML/CSS/JavaScript, Git'
-        percent: 80
-        icon: code-bracket
-      - name: Frameworks/Libraries
-        description: 'PyTorch, OpenCV, OpenAI.Gym, CUDA programming , OpenGL, ROS/ROS 2, HPC Toolkit, React'
-        percent: 80
-        icon: code-bracket
-#       - name: SQL
+#   - name: Technical Skills
+#     items:
+#       - name: Programming Languages
+#         description: 'Python, Java, C/C++, MATLAB, LaTeX, VHDL/Verilog, HTML/CSS/JavaScript, Git'
+#         percent: 80
+#         icon: code-bracket
+#       - name: Frameworks/Libraries
+#         description: 'PyTorch, OpenCV, OpenAI.Gym, CUDA programming , OpenGL, ROS/ROS 2, HPC Toolkit, React'
+#         percent: 80
+#         icon: code-bracket
+# #       - name: SQL
 #         description: ''
 #         percent: 40
 #         icon: circle-stack
@@ -155,12 +155,12 @@ education:
 #     icon: coursera
 #     summary: |
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
+  # - title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   date: '2023-07-01'
+  #   awarder: edX
+  #   icon: edx
+  #   summary: |
       
 #   - title: 'Object-Oriented Programming in R'
 #     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
