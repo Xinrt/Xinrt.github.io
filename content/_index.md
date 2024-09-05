@@ -90,6 +90,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+      disable_links: true
   # - block: collection
   #   id: talks
   #   content:
