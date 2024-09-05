@@ -37,8 +37,6 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  # - icon: custom/mail
-  #   url: tangxinran678@gmail.com
   - icon: brands/github
     url: https://github.com/Xinrt
   - icon: brands/linkedin
