@@ -41,21 +41,14 @@ sections:
     content:
       title: '📰 News'
       text: |-
-        **07/2024:** Our paper [SSCBench: Monocular 3D Semantic Scene Completion Benchmark for Autonomous Driving](#) has been accepted as an Oral presentation at IROS 2024.
+        **07/2024:** I start my PhD research under the supervision of [Prof. George Atia](https://www.eecs.ucf.edu/~atia/) at UCF
 
-        **06/2024:** Our paper "[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](#)" is now available.
+        **05/2024:** I have submitted my [master thesis](https://www.proquest.com/docview/3058327534/D14E219DFEA047A0PQ/1?accountid=12768&sourcetype=Dissertations%20&%20Theses) and graduated from New York University.
 
-        **05/2024:** I have submitted my [master thesis](#) and graduated from New York University.
+        **01/2024:** I begin my position as the software team leader for the [NYU VIP Self-Drive project](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams/nyu-self-drive).
 
-        **03/2024:** I am happy to accept the Ph.D. offer from University of Minnesota - Twin Cities.
+        **09/2023:** I start my master thesis research under the supervision of [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) in the AI4CE LAB.
 
-        **02/2024:** The [OPEN MARS dataset](#) has been accepted by CVPR 2024! You can access the paper [here](#).
-
-        **09/2023:** I start my master thesis research under the supervision of Prof. Chen Feng in the AI4CE LAB.
-
-        **07/2023:** The [paper](#) expanded from my undergraduate thesis has been accepted by ACM Multimedia (ACM MM) 2023.
-
-        **05/2023:** SSCBench is released. The [preprint](#) is available.
         
     # design:
     #   columns: '1'
