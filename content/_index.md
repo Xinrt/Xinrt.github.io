@@ -37,9 +37,28 @@ sections:
       text: |-
         Recognizing that the ultimate aim of all research is to apply it in real-world scenarios, enhancing the interaction between humans and machines is interesting and challenging. My areas of research interest are in computer vision, transfer learning, and high performance machine learning. I aspire to transform these algorithms into practical engineering solutions that aid in human construction. Specifically, my research focuses on: (1) Robust Reinforcement learning from human feedback, (2) mobile navigaion, and (3) Large Language/Vision Models
 
+  - block: markdown
+    content:
+      title: '📰 News'
+      text: |-
+        **07/2024:** Our paper [SSCBench: Monocular 3D Semantic Scene Completion Benchmark for Autonomous Driving](#) has been accepted as an Oral presentation at IROS 2024.
+
+        **06/2024:** Our paper "[α-SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion](#)" is now available.
+
+        **05/2024:** I have submitted my [master thesis](#) and graduated from New York University.
+
+        **03/2024:** I am happy to accept the Ph.D. offer from University of Minnesota - Twin Cities.
+
+        **02/2024:** The [OPEN MARS dataset](#) has been accepted by CVPR 2024! You can access the paper [here](#).
+
+        **09/2023:** I start my master thesis research under the supervision of Prof. Chen Feng in the AI4CE LAB.
+
+        **07/2023:** The [paper](#) expanded from my undergraduate thesis has been accepted by ACM Multimedia (ACM MM) 2023.
+
+        **05/2023:** SSCBench is released. The [preprint](#) is available.
         
-    design:
-      columns: '1'
+    # design:
+    #   columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -61,54 +80,7 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-
-
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      page_type: post
-      links_to_page: false
-      count: 5
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      offset: 0
-      order: desc
-    design:
-      view: custom
-      custom_css: |
-        .news-item {
-          display: flex;
-          justify-content: space-between;
-          padding: 10px 0;
-        }
-        .news-date {
-          flex: 1;
-          color: gray;
-        }
-        .news-title {
-          flex: 3;
-          text-align: right;
-        }
-      item_template: |
-        <div class="news-item">
-          <div class="news-date">{{ .Date.Format "Jan 2, 2006" }}</div>
-          <div class="news-title">{{ .Title }}</div>
-        </div>
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-
-
-
+  
   # - block: collection
   #   id: news
   #   content:
@@ -139,6 +111,7 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
+
   # - block: collection
   #   id: talks
   #   content:
@@ -149,6 +122,10 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
+
+
+
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
