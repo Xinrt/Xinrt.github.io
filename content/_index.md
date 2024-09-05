@@ -41,13 +41,13 @@ sections:
     content:
       title: '📰 News'
       text: |-
-        **07/2024:** I start my PhD research under the supervision of [Prof. George Atia](https://www.eecs.ucf.edu/~atia/) at UCF.
+        **07/2024:** I start my PhD research under the supervision of Prof. George Atia at UCF.
     
-        **05/2024:** I have submitted my [master thesis](https://www.proquest.com/docview/3058327534/D14E219DFEA047A0PQ/1?accountid=12768&sourcetype=Dissertations%20%26%20Theses) and graduated from New York University.
+        **05/2024:** I have submitted my master thesis and graduated from New York University.
     
-        **01/2024:** I begin my position as the software team leader for the [NYU VIP Self-Drive project](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams/nyu-self-drive).
+        **01/2024:** I begin my position as the software team leader for the NYU VIP Self-Drive project.
     
-        **09/2023:** I start my master thesis research under the supervision of [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) in the AI4CE LAB.
+        **09/2023:** I start my master thesis research under the supervision of Prof. Chen Feng in the AI4CE LAB.
     
   - block: markdown
     content:
