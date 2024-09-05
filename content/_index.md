@@ -41,30 +41,24 @@ sections:
     content:
       title: '📰 News'
       text: |-
-        **07/2024:** I start my PhD research under the supervision of [Prof. George Atia](https://www.eecs.ucf.edu/~atia/) at UCF
-
-        **05/2024:** I have submitted my [master thesis](https://www.proquest.com/docview/3058327534/D14E219DFEA047A0PQ/1?accountid=12768&sourcetype=Dissertations%20&%20Theses) and graduated from New York University.
-
+        **07/2024:** I start my PhD research under the supervision of [Prof. George Atia](https://www.eecs.ucf.edu/~atia/) at UCF.
+    
+        **05/2024:** I have submitted my [master thesis](https://www.proquest.com/docview/3058327534/D14E219DFEA047A0PQ/1?accountid=12768&sourcetype=Dissertations%20%26%20Theses) and graduated from New York University.
+    
         **01/2024:** I begin my position as the software team leader for the [NYU VIP Self-Drive project](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams/nyu-self-drive).
-
+    
         **09/2023:** I start my master thesis research under the supervision of [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) in the AI4CE LAB.
-
-        
+    
   - block: markdown
     content:
       title: '🏆 Awards & Honors'
       text: |-
-        **UCF Graduate Artificial Intelligence Initiative Fellowship** \hfill *2024 - 2025*
-
-        **NYU Graduate School of Engineering Scholarship** \hfill *2022 - 2024*
-
-        **The Appreciate Presenter at the 2021 4th International Conference on Computing and BigData** \hfill *Nov. 2021*
-
-        **The Meritorious Winner of 2021 Interdisciplinary Contest in Modeling** \hfill *Feb. 2021*
-
-        **The Successful Participant Award of Asia and Pacific Mathematical Contest in Modeling** \hfill *Nov. 2020*
-
-        **The Second prize of the 10th National MathorCup university mathematical modeling challenge** \hfill *Jun. 2020*
+        - **UCF Graduate Artificial Intelligence Initiative Fellowship** *2024 - 2025*
+        - **NYU Graduate School of Engineering Scholarship** *2022 - 2024*
+        - **The Appreciate Presenter at the 2021 4th International Conference on Computing and BigData** *Nov. 2021*
+        - **The Meritorious Winner of 2021 Interdisciplinary Contest in Modeling** *Feb. 2021*
+        - **The Successful Participant Award of Asia and Pacific Mathematical Contest in Modeling** *Nov. 2020*
+        - **The Second prize of the 10th National MathorCup university mathematical modeling challenge** *Jun. 2020*
 
         
     # design:
