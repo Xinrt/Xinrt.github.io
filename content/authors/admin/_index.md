@@ -61,7 +61,7 @@ education:
     # button:
     #   text: 
     #   url: 
-  - area: M.Sc. in Computer Engineering
+  - area: M.S. in Computer Engineering
     institution: New York University
     date_start: 2022-09-01
     date_end: 2024-05-25
