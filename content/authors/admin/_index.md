@@ -49,7 +49,8 @@ profiles:
 interests:
   - Transfer Learning
   - Computer Vision
-  - Robotics
+  - Mobile Navigation
+  - Mobile Manipulation
 
 education:
   - area: PhD in Computer Engineering
