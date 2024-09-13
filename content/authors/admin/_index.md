@@ -48,7 +48,8 @@ profiles:
 
 interests:
   - Transfer Learning
-  - Computer Vision & Robot Perception
+  - Computer Vision 
+  - Robot Perception
   - Mobile Navigation
   - Mobile Manipulation
 
