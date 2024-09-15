@@ -52,7 +52,7 @@ sections:
       text: |-
         **07/2024:** I start my PhD research under the supervision of Prof. George Atia at UCF.
     
-        **05/2024:** I have submitted my master thesis and graduated from New York University.
+        **05/2024:** I have submitted my [master thesis](https://www.proquest.com/docview/3058327534/abstract/9CEE2A81078746A6PQ/1?accountid=12768&sourcetype=Dissertations%20&%20Theses) and graduated from New York University.
     
         **01/2024:** I begin my position as the software team leader for the NYU VIP Self-Drive project.
     
